@@ -1,0 +1,15 @@
+bdd/google/PageActions/SearchPageAction.class
+bdd/runners/RunnerClass.class
+bdd/google/PageElements/SearchPageLocators.class
+bdd/newtours/PageElements/HomePageLocators.class
+bdd/newtours/PageElements/RegisterConfrPageLocators.class
+bdd/newtours/PageElements/RegisterPageLocators.class
+bdd/utilities/BeforeActions.class
+bdd/newtours/PageActions/RegisterPageActions.class
+bdd/utilities/AfterActions.class
+bdd/newtours/PageActions/RegisterConfrPageAction.class
+bdd/stepDef/GoogleSearchSteps.class
+bdd/utilities/ReadExcelSheetData.class
+bdd/stepDef/NewtoursRegisterSteps.class
+bdd/newtours/PageActions/NewtoursHomePageAction.class
+bdd/utilities/SetupDrivers.class
